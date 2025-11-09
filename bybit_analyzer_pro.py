@@ -242,3 +242,4 @@ if __name__ == "__main__":
             time.sleep(2)
         print("Esperando 10 minutos para el siguiente análisis...")
         time.sleep(600)
+        fix line endings for Linux
