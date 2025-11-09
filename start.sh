@@ -1,2 +1,2 @@
-#!/bin/bash
-python bybit_analyzer_pro.py
+#!/usr/bin/env bash
+python3 bybit_analyzer_pro.py
