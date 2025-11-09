@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: bybit-analyzer-bot
+    env: python
+    startCommand: bash start.sh
+    plan: free
